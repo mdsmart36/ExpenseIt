@@ -18,7 +18,7 @@
             <XmlDataProvider x:Key="ExpenseDataSource" XPath="Expenses">
                 <x:XData>
                     <Expenses xmlns="">
-                        <Person Name="Mike" Department="Legal">
+                        <Person Name="Matt" Department="Developer">
                             <Expense ExpenseType="Lunch" ExpenseAmount="50" />
                             <Expense ExpenseType="Transportation" ExpenseAmount="50" />
                         </Person>
